@@ -1,0 +1,48 @@
+body {
+  font-family: 'Lato', sans-serif;
+  color: #2d3c49;
+  margin-bottom: 3em;
+}
+
+img {
+  max-width: 100%;
+}
+
+hr {
+    border: none;
+    height: 3px;
+    /* Set the hr color */
+    color: #7d97ad; /* old IE */
+    background-color: #7d97ad; /* Modern Browsers */
+}
+
+#udacity-logo {
+  width: 4em;
+  padding-top: 20px;
+}
+
+#featured-work-title {
+  color: #7d97ad;
+  padding-left: 5px;
+  margin-top: 35px;
+  margin-bottom: 15px;
+}
+
+#name {
+  font-weight: 100;
+  font-size: 70px;
+}
+
+div.col-md-4 h3 {
+  text-transform: uppercase;
+  font-size: 24px;
+}
+
+a,a:focus, a:hover {
+    color: #2d3c49;
+    text-decoration: none;
+}
+
+.description {
+  padding-top: 1em;
+}
